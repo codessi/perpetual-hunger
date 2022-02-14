@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/perpetual-hunger/static/css/main.908e4714.css",
+    "main.css": "/perpetual-hunger/static/css/main.6dcd950e.css",
     "main.js": "/perpetual-hunger/static/js/main.f6605ebc.js",
     "static/js/787.b2c05b83.chunk.js": "/perpetual-hunger/static/js/787.b2c05b83.chunk.js",
     "static/media/large-cake.jpg": "/perpetual-hunger/static/media/large-cake.13dbe9cda015c52e9f3a.jpg",
     "index.html": "/perpetual-hunger/index.html",
-    "main.908e4714.css.map": "/perpetual-hunger/static/css/main.908e4714.css.map",
+    "main.6dcd950e.css.map": "/perpetual-hunger/static/css/main.6dcd950e.css.map",
     "main.f6605ebc.js.map": "/perpetual-hunger/static/js/main.f6605ebc.js.map",
     "787.b2c05b83.chunk.js.map": "/perpetual-hunger/static/js/787.b2c05b83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.908e4714.css",
+    "static/css/main.6dcd950e.css",
     "static/js/main.f6605ebc.js"
   ]
 }
